@@ -6,21 +6,21 @@
 
 ![144_1.jpg](https://i.loli.net/2021/05/28/6LmW3Crq4hpGnzb.jpg)
 
-```js
+```javascript
 输入：root = [1,null,2,3]
 输出：[1,2,3]
 ```
 
 **示例 2：**
 
-```js
+```javascript
 输入：root = []
 输出：[]
 ```
 
 **示例 3：**
 
-```js
+```javascript
 输入：root = [1]
 输出：[1]
 ```
@@ -29,7 +29,7 @@
 
 ![144_2.jpg](https://i.loli.net/2021/05/28/P6EgbYudxjOXQtN.jpg)
 
-```js
+```javascript
 输入：root = [1,2]
 输出：[1,2]
 ```
@@ -38,7 +38,7 @@
 
 ![144_3.jpg](https://i.loli.net/2021/05/28/6qdG3mPaAXEfgo8.jpg)
 
-```js
+```javascript
 输入：root = [1,null,2]
 输出：[1,2]
 ```
@@ -58,7 +58,7 @@
 按照访问 [根节点 —— 左子树 —— 右子树] 的方式遍历这棵树。
 而在访问左子树和右子树的时候，我们按照同样的方式遍历，直到遍历完整棵树。
 
-```js
+```javascript
 /**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {

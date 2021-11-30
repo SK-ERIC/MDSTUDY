@@ -6,7 +6,7 @@
 
 那么与节流函数的区别直接看这个动画实现即可。
 
-![debounce](https://upload-images.jianshu.io/upload_images/23602713-0e221a3834d4218d.gif?imageMogr2/auto-orient/strip)
+![debounce.gif](https://ae01.alicdn.com/kf/H9348988a754f4ffcaa4c2eafabade0099.png)
 
 手写简化版:
 
