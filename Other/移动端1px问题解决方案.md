@@ -19,7 +19,7 @@ window.devicePixelRatio = 设备的物理像素 / CSS像素;
 
 大家可以尝试打开自己的 Chrome 浏览器，启动移动端调试模式，然后尝试在控制台去输出这个 `devicePixelRatio` 的值。这里我选中了 `iPhone6/7/8` 这系列的机型，输出的结果就是 2：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/tswsiaEpOia6EEA8tml9XO6rmpu2CgUbYzRXHSvOdffjeFK77JGic2ZaBAmSB8ibfFOTCZyMM6NvrzAGrS8yaXcWEQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)-w967
+![image.png](https://pic.rmb.bdstatic.com/bjh/b21e79c99489c01629313a113b04a175.png)
 
 这就意味着我设置的 1px CSS 像素，在移动端上会用 2 个物理像素来进行渲染，所以实际看到的一定会比 1px 粗一些。
 
