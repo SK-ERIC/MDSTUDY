@@ -163,7 +163,7 @@ JavaScript 提供了两类数据类型：基本数据类型和引用类型。
    字符串用于表示文本数据。可以使用单引号、双引号或反引号（模板字符串）创建字符串。
 
    ```javascript
-   let greeting = "Hello, World!";
+   let greeting = 'Hello, World!';
    let name = "Alice";
    let message = `Hello, ${name}!`;
    console.log(greeting); // 输出：Hello, World!
