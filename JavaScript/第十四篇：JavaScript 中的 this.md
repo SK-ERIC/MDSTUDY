@@ -436,10 +436,7 @@ manager.addTask("Learn JavaScript");
 
 如果你想进一步探索 `this` 的用法，以下是一些推荐的资源：
 
-- [gentle-explanation-of-this-in-javascript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) - [神秘的 this](https://mp.weixin.qq.com/s/fc2DKRbAbCCrYw-48PHYBA)
+- [gentle-explanation-of-this-in-javascript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) - JavaScript 中 this 指向所有场景详细分析
+- [JavaScript 中 this 指向所有场景详细分析](https://mp.weixin.qq.com/s/fc2DKRbAbCCrYw-48PHYBA) - JavaScript 中 this 指向所有场景详细分析(译)
 - [MDN Web Docs - `this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) - 详细解释 `this` 的官方文档。
 - [JavaScript.info - `this`](https://javascript.info/object-methods) - 详细介绍 `this` 在对象方法中的使用。
-
----
-
-希望这篇文章能帮助你更好地理解 JavaScript 中的 `this`。
