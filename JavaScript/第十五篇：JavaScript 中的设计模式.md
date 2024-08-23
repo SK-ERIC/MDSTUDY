@@ -702,9 +702,5 @@ JavaScript 中的设计模式为开发者提供了一整套解决方案，帮助
 ### 社区与资源
 
 - [Refactoring Guru - 设计模式](https://refactoring.guru/design-patterns)
-- [JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)
+- [JavaScript Design Patterns](https://www.patterns.dev)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)
-
----
-
-希望这篇文章能帮助你更好地理解和应用 JavaScript 中的设计模式。
